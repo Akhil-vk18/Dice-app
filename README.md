@@ -1,19 +1,9 @@
-# dice_app
+Dice Roller App
+Overview
+This Flutter-based Dice Roller App allows users to roll a virtual dice by tapping on it. When the dice is clicked, a random number between 1 and 6 is generated, and the corresponding dice face is displayed on the screen. The app also displays the rolled number below the dice for clarity.
 
-A new Flutter project.
-In this project there will be a dice which shows the same functionality as a real dice.
-shows visual representation of real die.
-Generate a random number(1-6) when rolled.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+A tapable dice image that generates a random number between 1 and 6.
+Random dice face displayed based on the result of the roll.
+A message that displays the result of the dice roll ("You got X").
+Custom UI with a themed background color and styled AppBar.
